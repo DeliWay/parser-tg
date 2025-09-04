@@ -1,0 +1,17 @@
+groups:
+- keywords: []
+  skip_links: false
+  skip_media: false
+  skip_protected: false
+  source: ''
+  target: ''
+
+
+telegram:
+  api_hash:
+  api_id: ''
+  max_daily_forwards: 100
+  parse_history: true
+  phone: ''
+  safety_delay: 4.0
+  session_name: session_name
